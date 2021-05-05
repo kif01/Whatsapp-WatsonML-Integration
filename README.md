@@ -7,3 +7,4 @@ Hands-On Tutorial [Here](https://developer.ibm.com/patterns/build-a-framework-th
 Survey [Here](https://ibm.biz/BdfzQv).
 
 Call for Code [Here](developer.ibm.com/callforcode).
+University Challenge [Here](https://www.crowdcast.io/e/2021-call-for-code)
