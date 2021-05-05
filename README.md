@@ -6,5 +6,5 @@ Install IBM Cloud CLI [Here](https://cloud.ibm.com/docs/cli?topic=cli-install-ib
 Hands-On Tutorial [Here](https://developer.ibm.com/patterns/build-a-framework-that-connects-whatsapp-to-any-watson-service-on-ibm-cloud/). <br>
 Survey [Here](https://ibm.biz/BdfzQv).
 
-Call for Code [Here](developer.ibm.com/callforcode).
-University Challenge [Here](https://www.crowdcast.io/e/2021-call-for-code)
+Call for Code [Here](developer.ibm.com/callforcode). <br>
+University Challenge [Here](https://www.crowdcast.io/e/2021-call-for-code).
